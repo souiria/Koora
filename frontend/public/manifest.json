@@ -1,0 +1,11 @@
+{
+  "name": "Kora AI 🇲🇦 - توقعات وتحليل الكرة",
+  "short_name": "Kora AI",
+  "lang": "ar-MA",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#10b981",
+  "description": "منصة مغربية ذكية لتحليل مباريات كرة القدم وتقديم توقعات إحصائية بالدارجة"
+}
